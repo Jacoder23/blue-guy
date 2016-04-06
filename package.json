@@ -1,0 +1,15 @@
+{
+  "name": "blue-guy",
+  "version": "1.0.0",
+  "description": "Super Crate Box from LessMilk",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blue",
+    "guy"
+  ],
+  "author": "Hans C",
+  "license": "ISC"
+}
